@@ -172,7 +172,7 @@ If you'd like to contribute, please reach out to the repository owner via GitHub
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](## 📝 License
 
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+This project is licensed under the LICENSE [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 ) file for details.
 
 ----------
